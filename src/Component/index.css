@@ -1,0 +1,22 @@
+/* src/index.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+*{
+    margin:0;
+
+}
+body{
+    background-color: rgb(241, 241, 241);
+}
+.App-logo{
+    height: 75px;
+    width:135px;
+    margin-left: 80px;
+
+}
+option{
+    font-weight: 500;
+}
